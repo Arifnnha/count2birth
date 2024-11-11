@@ -1,4 +1,3 @@
-// src/app/components/Navbar/index.js
 "use client";
 
 import { useState } from "react";
